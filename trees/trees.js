@@ -26,7 +26,6 @@ b.right = e;
 c.right = f;
 
 //Bredath First Traversal
-
 const breadthFirstPrint = (root) => {
   const queue = [root];
 
